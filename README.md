@@ -1,4 +1,4 @@
-# Golaberij is a Marathi Word Which describes Calculation of Expenses Over a Period of Time.
+# Golberij is a Marathi word used to refer to expenses incurred over a period of time.
 The Daily Expenses Webapp is a web-based application that helps users track their daily expenses. The application is built on a modern stack of technologies, including HTML5, CSS3, Bootstrap, PHP, MySQL, JavaScript, and jQuery. This ensures that the application is responsive, accessible, and secure.
 
 The Daily Expenses Webapp is a powerful tool that can help users to:
